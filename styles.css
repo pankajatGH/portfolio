@@ -288,7 +288,7 @@ footer {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
    }  
 }
- @media (max-width: 700px){ 
+ @media (max-width: 400px){ 
     #contact .contact-content{
         max-width: 355px;
         text-align: center;
